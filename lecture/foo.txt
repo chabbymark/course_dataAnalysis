@@ -1,0 +1,6 @@
+Python is a great language.
+Yet Data Analysis course is tough!!
+
+The following is appended to the first block...
+Alway use 'with' statement if one doesn't want to lose any data!!!
+Or be upset if such a thing happens...
